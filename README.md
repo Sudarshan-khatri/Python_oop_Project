@@ -11,11 +11,11 @@ library.py     * Contains the Library class with file persistence.
 
 ## Features of  personal library management system:
 ### Admin 
-- **Add new books to the system
-- **Update book details
-- **Delete books from the system
-- **View all available books
+- **Add new books to the system**
+- **Update book details**
+- **Delete books from the system**
+- **View all available books**
 ### User 
-- **Search for books
-- **View available books
-- **Borrow and return books 
+- **Search for books**
+- **View available books**
+- **Borrow and return books**
