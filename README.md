@@ -5,9 +5,9 @@
 ##Project Structure
 It is recommended to structure your project as follows:
 library_management/
-main.py # Main program and user interface.
-book.py # Contains the Book class.
-library.py # Contains the Library class with file persistence.
+main.py *Main program and user interface.
+book.py * Contains the Book class.
+library.py * Contains the Library class with file persistence.
 
 ##Features of  personal library management system:
    ###Admin 
